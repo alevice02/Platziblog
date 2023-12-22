@@ -4,6 +4,7 @@ Blog para la clase de [Platzi](http://platzi.com "Platzi")
 
 ## En este curso podre:
 -Aprender Git y Github de manera facil y efectiva
+
 -Aprender buenas practicas de programacion
 
 Recuerda: Por mas oscuro que se vea el horizonte, ***nunca pares de aprender***
